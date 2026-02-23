@@ -8,7 +8,7 @@ Hi, I am Anamika 👋 and I am learning Python programming 🚀
 - Input Function
 
   ## My Goal
-  - Become a python Developer
+  - Become a Python Developer
   - Build my own project 
   
 
