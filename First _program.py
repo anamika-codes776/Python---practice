@@ -1,2 +1,2 @@
 name="Anamika"
-print("Hello,"name)
+print("Hello,",name)
