@@ -6,6 +6,10 @@ I am learning Python programming
 - Variables
 - Print Function
 - Input Function
+
+  ## My Goal
+  - Become a python Developer
+  - Build my own project 
   
 
 
